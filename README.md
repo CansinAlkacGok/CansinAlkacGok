@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </div>
   <div>
     <h2 align="center">Hi! I am Cansin! 
-      <p align="center"> <font size="2"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
+      <p align="center"> <font size="1"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
     </h2>
     
   </div>  
