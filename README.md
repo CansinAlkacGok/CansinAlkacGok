@@ -18,16 +18,15 @@ Here are some ideas to get you started:
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   </div>
-  <div id="main">
-   <div id="section1">
-     <h3 align="center"> Hey there!
-       <p align="center"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
-     </h3>
-    </div>
-    <div id="section2">
-      <h5>Here you can find my linkedIn profile and portfolio</h5>
-    </div>
-  <div>
+  <div id="section1">
+    <h3 align="center"> Hey there!
+      <p align="center"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
+    </h3>
+  </div>
 
- ---
+---  
+  <div id="section2">
+    <h5>Here you can find my linkedIn profile and portfolio</h5>
+  </div>
+
 
