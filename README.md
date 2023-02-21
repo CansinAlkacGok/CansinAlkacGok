@@ -24,6 +24,7 @@ Here are some ideas to get you started:
        <p align="center"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
      </h3>
     </div>
+  ---
     <div id="section2">
       <h5>Here you can find my linkedIn profile and portfolio</h5>
     </div>
