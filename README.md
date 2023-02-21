@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <a href="https://cansinalkacgok.github.io/cansin-portfolio-app/">
       <img src="https://img.shields.io/badge/Portfolio-ca7193?style=for-the-badge&logo=P&logoColor=white" alt="Portfolio Badge"/>
     </a>   
-  </div>
+  </div> <br/>
   <div id="section3" align="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="37" height="37"/>&nbsp;
