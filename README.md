@@ -24,9 +24,7 @@ Here are some ideas to get you started:
     </h3>
   </div>
 
----  
   <div id="section2">
-    <h5>Here you can find my linkedIn profile and portfolio: </h5>
     <a href="https://www.linkedin.com/in/cansinalkac/">
       <img src="https://img.shields.io/badge/LinkedIn-8482bb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>      
@@ -34,5 +32,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Portfolio-ca7193?style=for-the-badge&logo=P&logoColor=white" alt="Portfolio Badge"/>
     </a>   
   </div>
+  
+---
+
 
 
