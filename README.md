@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     </a>   
   </div> <br/>
   <div id="section3" align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="37" height="37"/>&nbsp;<br/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="37" height="37"/>&nbsp;
@@ -41,8 +41,6 @@ Here are some ideas to get you started:
      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="EXPRESS" alt="EXPRESS" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MONGODB" alt="MONGODB" width="37" height="37"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL"  alt="MYSQL" width="37" heigh35t="37"/>&nbsp;
-  </div>
-  <div id="section4" align="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="NEXT" alt="NEXT" width="35" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS"  alt="TS" width="37" height="37"/>&nbsp;
