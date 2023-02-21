@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <div id="section2">
     <h5>Here you can find my linkedIn profile and portfolio: </h5>
     <a href="https://www.linkedin.com/in/cansinalkac/">
-      <img src="https://img.shields.io/badge/LinkedIn-302c8300?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-302c83?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>      
     <a href="https://cansinalkacgok.github.io/cansin-portfolio-app/">
       <img src="https://img.shields.io/badge/Portfolio-E61845?style=for-the-badge&logo=P&logoColor=white" alt="Portfolio Badge"/>
