@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   </div>
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
     <h2 align="center">Hi! I am Cansin!</h2>
     <h5 align="center"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </h5>
   </div>  
-</div>
+
 
