@@ -40,6 +40,8 @@ Here are some ideas to get you started:
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="EXPRESS" alt="EXPRESS" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MONGODB" alt="MONGODB" width="37" height="37"/>&nbsp;
+  </div>
+  <div id="section4" align="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL"  alt="MYSQL" width="37" heigh35t="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="37" height="37"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="NEXT" alt="NEXT" width="35" height="37"/>&nbsp;
