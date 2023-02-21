@@ -19,9 +19,9 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   </div>
   <div>
-    <h4 align="center"> Hey there!
+    <h3 align="center"> Hey there!
       <p align="center"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
-    </h4>
+    </h3>
     
   </div>  
 
