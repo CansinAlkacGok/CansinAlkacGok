@@ -31,7 +31,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-8482bb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>      
     <a href="https://cansinalkacgok.github.io/cansin-portfolio-app/">
-      <img src="https://img.shields.io/badge/Portfolio-cf3d74?style=for-the-badge&logo=P&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-ca7193?style=for-the-badge&logo=P&logoColor=white" alt="Portfolio Badge"/>
     </a>   
   </div>
 
