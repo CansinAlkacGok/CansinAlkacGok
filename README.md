@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     </h3>
   </div>
 
-  <div id="section2">
+  <div id="section2" align="center">
     <a href="https://www.linkedin.com/in/cansinalkac/">
       <img src="https://img.shields.io/badge/LinkedIn-8482bb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>      
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     </a>   
   </div>
   
----
+
 
 
 
