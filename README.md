@@ -19,8 +19,8 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   </div>
   <div>
-    <p align="center"> Hi! I am Cansin! </p>
-      <p align="center"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
+    <p align="center"> <font size="5" Hi! I am Cansin! </font> </p>
+    <p align="center"> :sunny: :four_leaf_clover: :leaves: :paw_prints: :cat2: :cactus: :deciduous_tree: :full_moon: </p>
   </div>  
 
 
