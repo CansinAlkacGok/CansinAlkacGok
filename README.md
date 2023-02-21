@@ -52,6 +52,8 @@ Here are some ideas to get you started:
      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GITLAB" alt="GITLAB" width="40" height="40"/>
   </div>
   
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CansinAlkacGok&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
