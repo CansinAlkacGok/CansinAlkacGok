@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div background="pink">
+<div>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   </div>
+  <h2>Hi! I am Cansin</h2>
 </div>
 
