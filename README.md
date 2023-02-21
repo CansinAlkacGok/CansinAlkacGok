@@ -38,7 +38,7 @@ Here are some ideas to get you started:
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="35" height="35"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="35" height="35"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="35" height="35"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="EXPRESS" alt="EXPRESS" width="35" height="3535"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="EXPRESS" alt="EXPRESS" width="35" height="35"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MONGODB" alt="MONGODB" width="35" height="35"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL"  alt="MYSQL" width="35" heigh35t="35"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUE" alt="VUE" width="35" height="35"/>&nbsp;
