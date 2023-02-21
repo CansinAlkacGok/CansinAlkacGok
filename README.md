@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
   </div>
-  <span style="color: red;"> *Hi! I am Cansin*</span>
+  <span style="color: red;"> <em>Hi! I am Cansin</em></span>
 </div>
 
